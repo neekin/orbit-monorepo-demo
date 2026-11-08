@@ -1,0 +1,1 @@
+.orbit{color:var(--orbit-color-text);font:var(--orbit-font-body)/1.6 var(--orbit-font-family);min-width:0}.orbit .page{max-width:1260px;margin:0 auto}.orbit .row{flex-wrap:wrap;align-items:center;gap:12px;display:flex}.orbit .stack{gap:16px;display:grid}.orbit .muted{color:var(--orbit-color-text-muted)}

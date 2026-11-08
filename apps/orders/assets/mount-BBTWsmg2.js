@@ -1,0 +1,1 @@
+import{n as e,t}from"./react-vendor-FrbPb9NH.js";import{a as n,r,t as i}from"./app-DaNJeMWC.js";var a=e(),o=t(),s=1,c=(e,t)=>{let s=(0,a.createRoot)(e),c=e=>s.render((0,o.jsx)(n,{children:(0,o.jsx)(r,{apiBaseUrl:e.apiBaseUrl,dataMode:e.dataMode,children:(0,o.jsx)(i,{...e})})}));return c(t),{update:c,unmount:()=>s.unmount()}};export{c as mount,s as version};

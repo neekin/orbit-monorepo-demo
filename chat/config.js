@@ -1,0 +1,1 @@
+window.__ORBIT_CONFIG__ = {"dataMode":"mock","demoOnly":true,"apiBaseUrl":"https://orbit-demo.invalid/api","ordersRemote":"/orbit-monorepo-demo/apps/orders/remoteEntry.js","chatUrl":"/orbit-monorepo-demo/chat/","basePath":"/orders","remotes":{"orders":"/orbit-monorepo-demo/apps/orders/remoteEntry.js"}};
