@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "base": "/orbit-monorepo-demo/",
   "mode": "mock",
   "applications": [
@@ -20,5 +20,5 @@
       "mount": "apps/orders/"
     }
   ],
-  "sourceCommit": "248476e833519246cecb521bf56c8d9964303086"
+  "sourceCommit": "36ff6c1e0d6394472a7761bd9f0651a5fd0cb7b2"
 }
